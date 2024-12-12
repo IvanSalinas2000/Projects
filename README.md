@@ -10,6 +10,7 @@ This repository contains various projects in the area of data science created by
 ## Table of Contents
 - [DiamondPricePrediction](#diamondpriceprediction)
 - [PhishingDetection](#phishingdetection)
+- [AnalysisOfVendors](#analysisofvendors)
 
 ## Installation
 To get started, clone this repository using:
