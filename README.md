@@ -11,6 +11,7 @@ This repository contains various projects in the area of data science created by
 - [DiamondPricePrediction](#diamondpriceprediction)
 - [PhishingDetection](#phishingdetection)
 - [AnalysisOfVendors](#analysisofvendors)
+- [Chatbot Medico](#Chatbotmedico)
 
 ## Installation
 To get started, clone this repository using:
